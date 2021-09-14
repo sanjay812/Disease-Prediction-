@@ -57,7 +57,9 @@ Final output is what the end user gets is the list of best drugs along with the 
 
 Demonstration
 Using the ChatterBot, chatbotAI, chatterbot-corpus, flash ngrok library of python we have implemented a basic chat bot which describes the flow and results of our project in a better way. A chatbot a.k.a. chatterbot, is like a computer program or essentially an AI which can conduct a conversation via text based methods. They often simulate human dialogues and conversations. Popular real life examples include SIRI, Cortana. There are various templates freely available for chatbot and one of them has been used here.
+
 ● For designing the UI, HTML, CSS and JavaScript technologies are used.
+
 ● Using Ngrok, which allows us to host web pages on localhost, we have hosted this chatbot.
 To execute this chatbot on your system, there are two techniques:
 1. Using JupyterNotebook on a local machine.
@@ -65,7 +67,9 @@ If using this option, just click on the first link shown in the diagram above.2.
 1. Firstly, enter this message: “I am suffering from a cough,decreased body weight,and dyspnea.”
 2. After getting response from chatbot, enter this message: “What medicines should i take for bronchitis”
 3. Lastly, after getting the recommended drug, enter this message “Are there any side effects for it ?”.
+
 ● Below shown screenshot shows these steps and the output of chatbot:
+
 ![image](https://user-images.githubusercontent.com/72460414/132449464-d99079c3-8263-4ff9-95ab-62a2d5ca1bfb.png)
 
 
